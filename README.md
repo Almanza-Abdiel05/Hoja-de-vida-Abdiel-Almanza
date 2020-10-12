@@ -3,16 +3,16 @@
 <html>
 
 <head>
-<title> HOJA DE VIDA</title>
+HOJA DE VIDA
 </head><br>
 
 <body>
-<body style="color:    #00000 ;background-color:soft gray;">
+<body style="color:    #AAAAAA ;background-color:soft gray;">
 
 <h1><font face="Times New Roman"><p align="center">Hoja De Vida</font></h1></p>
 <img src=<img src="Foto de Grad 03.2.jpeg" width="305" height="377"> 
 <br>
-<p align="justify"><h2><font color="White"><font face="Times New Roman"> DATOS PERSONALES</font></font></h2></p>
+<p align="justify"><h2><font color="FFFFFF"><font face="Times New Roman"> DATOS PERSONALES</font></font></h2></p>
 <font face="Times New Roman"><br>
 
     Nombre:Abdiel Alejandro <br>
